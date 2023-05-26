@@ -1,0 +1,1 @@
+SELECT kode_produk, nama_produk, harga_produk FROM produk WHERE harga_produk= 1000 AND satuan= 'PCS';

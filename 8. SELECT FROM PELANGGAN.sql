@@ -1,0 +1,1 @@
+SELECT kode_pelanggan, nama_pelanggan, alamat_pelanggan FROM pelanggan WHERE alamat_pelanggan = 'Kotabumi';

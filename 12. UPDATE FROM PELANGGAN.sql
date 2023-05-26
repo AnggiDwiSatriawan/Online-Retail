@@ -1,0 +1,1 @@
+UPDATE pelanggan SET alamat_pelanggan='Simpang Agung' WHERE kode_pelanggan = 'BL07';

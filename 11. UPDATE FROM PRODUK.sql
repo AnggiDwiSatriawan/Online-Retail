@@ -1,0 +1,1 @@
+UPDATE produk SET harga_produk=12000  Where kode_produk = 'PR07';
